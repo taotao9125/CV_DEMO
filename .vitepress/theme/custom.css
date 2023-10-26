@@ -13,6 +13,9 @@
 }
 
 
+.figma .last-updated {
+  display: none!important;
+}
 .figma .VPDoc .container, 
 .figma .VPDoc .container .content {
   max-width: none!important;
