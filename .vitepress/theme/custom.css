@@ -1,0 +1,13 @@
+/* .vitepress/theme/custom.css */
+.VPHome .VPHero .main .name, 
+.VPHome .VPHero .main .tagline {
+  max-width: none;
+  width: 100%;
+}
+.VPHome .VPHero .main {
+  text-align: center;
+}
+
+.VPNav .VPNavBar .container .title {
+  font-size: 14px;
+}
