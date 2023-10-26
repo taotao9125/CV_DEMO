@@ -12,7 +12,7 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     footer: {
-      message: 'Powered by vitepress and Vercel'
+      message: 'Powered by vitepress, Vercel and stackblitz.'
     }
   }
   

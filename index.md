@@ -13,6 +13,7 @@ features:
  
  
   - title: Figma UI 生成静态页面工具
+    link: /pages/figma.md
     icon:
       src: /icons/Figma.svg
       width: 40
@@ -20,7 +21,7 @@ features:
     details: 🚧 支持 web、小程序、react-native(粗适配)
 
   - title: 文件调用链路分析器
-    link: /index.html
+    link: /pages/figma.md
     icon:
       src: /icons/Webpack.svg
       width: 40

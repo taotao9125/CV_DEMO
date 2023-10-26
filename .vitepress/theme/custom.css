@@ -11,3 +11,10 @@
 .VPNav .VPNavBar .container .title {
   font-size: 14px;
 }
+
+
+.figma .VPDoc .container, 
+.figma .VPDoc .container .content {
+  max-width: none!important;
+  width: 100%!important;
+}
