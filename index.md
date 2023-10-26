@@ -1,8 +1,8 @@
 ---
 layout: home
 
-title: 
-titleTemplate: 历史项目
+title: 历史项目
+titleTemplate: 记录
 
 hero:
   name: Projects
