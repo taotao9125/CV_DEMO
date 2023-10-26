@@ -12,7 +12,7 @@ features:
   
  
  
-  - title: Figma UI 生成静态页面工具
+  - title: 「DTC」Figma UI 自动生成静态页面工具
     link: /pages/figma.md
     icon:
       src: /icons/Figma.svg
