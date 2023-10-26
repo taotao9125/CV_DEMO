@@ -24,6 +24,9 @@
   background-size: cover;
 }
 
+.home .main {
+  margin-top: 80px;
+}
 .home .VPNav {
   display: none;
 }
