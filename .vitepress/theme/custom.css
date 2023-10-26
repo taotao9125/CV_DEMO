@@ -12,12 +12,18 @@
   font-size: 14px;
 }
 
-
-.figma .last-updated {
-  display: none!important;
-}
 .figma .VPDoc .container, 
 .figma .VPDoc .container .content {
   max-width: none!important;
   width: 100%!important;
+}
+
+
+.home {
+  background: url("/hero-bg-2x.webp") no-repeat 0 0;
+  background-size: cover;
+}
+
+.home .VPNav {
+  display: none;
 }

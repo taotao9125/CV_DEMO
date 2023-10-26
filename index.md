@@ -1,8 +1,7 @@
 ---
 layout: home
-
-title: 历史项目
-titleTemplate: 记录
+pageClass: home
+footer: false
 
 hero:
   name: Projects

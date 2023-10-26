@@ -7,13 +7,16 @@ export default defineConfig({
   description: ' ',
   base,
   head: [],
-
-  
-  lastUpdated: true,
+  appearance: 'force-dark',
+  title: 'History Projects',
+  titleTemplate: false,
   themeConfig: {
+    logo: '/icons/Home.svg',
+    darkModeSwitchLabel: false,
     footer: {
       message: 'Powered by vitepress, Vercel and stackblitz.'
-    }
+    },
+    nav: false
   }
   
 });
