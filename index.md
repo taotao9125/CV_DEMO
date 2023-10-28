@@ -4,8 +4,8 @@ pageClass: home
 footer: false
 
 hero:
-  name: Projects
-  tagline: List of past career projects
+  name: 代表项目
+  tagline: making human tools
 
 features:
   
