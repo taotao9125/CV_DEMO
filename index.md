@@ -20,7 +20,7 @@ features:
     details: 🚧 支持 web、小程序、react-native(粗适配)
 
   - title: 文件调用链路分析器
-    link: /pages/figma.md
+    link: https://taotao9125.github.io/diff_demo/
     icon:
       src: /icons/Webpack.svg
       width: 40
