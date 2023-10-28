@@ -6,7 +6,7 @@ pageClass: figma
 <br >
 [全屏查看 demo 转化结果](https://js-jxeyfy.stackblitz.io)
 
-👇️👇️👇️ stackblitz demo 👇️👇️👇️ <font color=gray size=2>TIPS：stackblitz 初始化可能有些慢，请耐心等待。</font>
+👇️ stackblitz demo <font color=gray size=2>TIPS：stackblitz 初始化可能有些慢，请耐心等待。</font>
 
 <iframe width="100%" border="0" height="600px" src="https://stackblitz.com/edit/js-jxeyfy?embed=1&file=index.html&hideDevTools=1" frameborder="0"></iframe>
 
