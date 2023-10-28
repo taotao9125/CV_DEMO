@@ -3,7 +3,6 @@ import { defineConfig } from 'vitepress';
 const base = process.env.NODE_ENV === 'production' ? '' : '';
 
 export default defineConfig({
-  title: ' ',
   description: ' ',
   base,
   head: [],
