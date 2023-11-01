@@ -41,7 +41,7 @@ features:
       src: /icons/React.svg
       width: 40
       height: 40
-    details: react 代码转小程序, 支持微信、支付宝、快应用等
+    details: React 代码转小程序, 支持微信、支付宝、快应用等（AST）
 
  
 ---
