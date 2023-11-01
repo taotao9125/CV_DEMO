@@ -1,11 +1,12 @@
 import { defineConfig } from 'vitepress';
 
-const base = process.env.NODE_ENV === 'production' ? '' : '';
+const base = process.env.CONTRAINER_ENV === 'PAGES' ? '/CV_DEMO' : '';
 
 export default defineConfig({
   description: ' ',
   base,
   head: [],
+  outDir: process.env.CONTRAINER_ENV === 'PAGES' ? './docs' : './.vitepress/dist',
   appearance: 'force-dark',
   title: 'History Projects',
   titleTemplate: false,
