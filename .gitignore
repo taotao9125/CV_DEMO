@@ -109,7 +109,7 @@ demo/dist
 
 # build lib
 lib
-# dist/
+dist/
 cache/
 esm
 cjs
