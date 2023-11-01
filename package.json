@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "serve": "vitepress serve"
+    "serve": "vitepress serve",
+    "pages": "cp -r .vitepress/dist/* docs"
   },
   "author": "",
   "license": "ISC",
