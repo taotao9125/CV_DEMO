@@ -19,14 +19,6 @@ features:
       height: 40
     details: 🚧 支持 web、小程序、react-native(粗适配)
 
-  - title: 文件调用链路分析器
-    link: https://taotao9125.github.io/diff_demo/
-    icon:
-      src: /icons/Webpack.svg
-      width: 40
-      height: 40
-    details: 辅助分析上线风险影响范围
-
   - title: MMF
     link: https://taotao9125.github.io/Micro-Module-Federation/
     icon:
